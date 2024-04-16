@@ -9,7 +9,7 @@
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
-- ✨ Interesting tidbit: I left mechanical engineering behinf to follow my passion for software engineering and creating slick applications!
+- ✨ Interesting tidbit: I left mechanical engineering behind to follow my passion for software engineering and creating slick applications!
 
 ## ✉ Find me on:
 <br />
