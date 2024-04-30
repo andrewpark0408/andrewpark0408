@@ -5,7 +5,7 @@
 
 ## 🎓 I am a mechanical engineer turned software engineer and excited to build amazing applications!
 
-- 🚀 Currently advancing my debut project, Golden Pot a sportsbetting app.
+- 🚀 Currently advancing my debut project, Kyung's Hair -- a client database and promotional email sender app for a small business.
   
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
   
@@ -13,7 +13,7 @@
   
 - 🗨️ Feel free to inquire about any topic.
   
-- ✨ Interesting tidbit: I left mechanical engineering behind to follow my passion for software engineering and creating slick applications!
+- ✨ Interesting tidbit: My favorite game of all time is Overwatch! #SoujournMain
 
 ## ✉ Find me on:
 <br />
