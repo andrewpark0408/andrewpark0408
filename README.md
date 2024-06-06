@@ -15,6 +15,8 @@
   
 - ✨ Interesting tidbit: My favorite game of all time is Overwatch! #SoujournMain
 
+- 🖥 Find my portfolio at: andrewparkdev.com
+
 ## ✉ Find me on:
 <br />
 <p align="left">
